@@ -2,7 +2,7 @@
 # ============================================================
 #   Reconx - Full Reconnaissance Tool
 #   Works on: Kali Linux | Windows CMD
-#   Author  : [Your Name]
+#   Author  : Parveen Kumar
 #   Version : 1.0
 # ============================================================
 #
